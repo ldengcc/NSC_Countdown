@@ -38,7 +38,7 @@
 import { ref, onMounted, onUnmounted } from "vue";
 
 // 設定倒數目標時間
-const targetDate = new Date("2025-03-27T00:00:00").getTime();
+const targetDate = new Date("2025-03-26T00:00:00").getTime();
 
 // 定義時間狀態
 const days = ref(0);
