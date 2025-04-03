@@ -1,10 +1,10 @@
 <template>
-  <div class="relative flex items-center justify-center min-h-screen text-white h-screen antialiased bg-cover bg-center" style="background-image: url('https://worldskillstw.wdasec.gov.tw/uploads/banners/20241225145123.jpg');">
+  <div class="relative flex items-center justify-center min-h-screen text-white h-screen antialiased bg-cover bg-center" style="background-image: url('https://www.tainex.com.tw/images/about1.jpg');">
     <!-- 半透明黑板 -->
     <div class="absolute inset-0 bg-black opacity-50 backdrop-blur-2xl"></div>
     <!-- 倒數計時內容 -->
     <div class="relative z-10 text-center p-4 rounded-lg">
-      <h1 class="text-2xl lg:text-5xl font-moto mb-6">第55屆全國技能競賽分區賽</h1>
+      <h1 class="text-2xl lg:text-5xl font-moto mb-6">第55屆全國技能競賽</h1>
       <div class="mx-auto lg:mx-0 w-5/5 lg:w-5/5 border-b-5 border-white opacity-75"></div>
       <div class=" text-4xl lg:text-[128px] pt-5 font-moto flex justify-center space-x-7 lg:space-x-20">
         <span :key="days" class="fade"> {{ formatTime(days) }} </span> 
