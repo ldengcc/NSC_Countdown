@@ -1,5 +1,5 @@
 <template>
-  <div class="relative flex items-center justify-center min-h-screen text-white h-screen antialiased bg-cover bg-center" style="background-image: url('https://www.tainex.com.tw/images/about1.jpg');">
+  <div class="relative flex items-center justify-center min-h-screen text-white h-screen antialiased bg-cover bg-center" style="background-image: url('https://worldskillstw.wdasec.gov.tw/uploads/banners/20250505164434.jpg');">
     <!-- 半透明黑板 -->
     <div class="absolute inset-0 bg-black opacity-50 backdrop-blur-2xl"></div>
     <!-- 倒數計時內容 -->
