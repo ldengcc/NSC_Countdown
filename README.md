@@ -1,2 +1,2 @@
 ﻿# Preview
-![image](https://github.com/user-attachments/assets/36088a9d-3c02-4813-ace5-b600976eea2d)
+![image](https://github.com/user-attachments/assets/32110541-e33d-4f00-8d9f-2b846d9eb666)
